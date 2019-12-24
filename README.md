@@ -95,3 +95,4 @@ Delete record if all variables contain na
 
     proc print;
     run;quit;
+    
